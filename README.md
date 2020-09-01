@@ -1,3 +1,7 @@
+## Live demo
+
+[`https://anup.netlify.app/`](https://anup.netlify.app/)
+
 This project was bootstrapped with [Create React AnimeProject](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
